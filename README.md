@@ -1,4 +1,4 @@
-# Citizen Service Request Management for ΚΕΠ (Κέντρα Εξυπηρέτησης Πολιτών)
+# Citizen Service Request Management
 
 This is a desktop application designed to manage and log citizen requests at ΚΕΠ (Citizen Service Centers) using Windows Forms (C#). It allows ΚΕΠ employees to record, modify, and search for service requests, making the process of handling requests more efficient.
 
