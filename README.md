@@ -29,7 +29,7 @@ This is a desktop application designed to manage and log citizen requests at ÎšÎ
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/kep-request-management.git
+    git clone https://github.com/gvasss/kep-request-management.git
     ```
 
 2. Open the solution file (`WindowsFormsApp2.sln`) using Visual Studio.
